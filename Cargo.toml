@@ -6,6 +6,39 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.8.5"
+
+[[example]]
+name = "guessing_example"
+path = "examples/guessing_example.rs"
+
+[[example]]
+name = "common1_example"
+path = "examples/common1_example.rs"
+
+[[example]]
+name = "common2_example"
+path = "examples/common2_example.rs"
+
+[[example]]
+name = "common3_example"
+path = "examples/common3_example.rs"
+
+[[example]]
+name = "common4_example"
+path = "examples/common4_example.rs"
+
+[[example]]
+name = "common_shadow1_example"
+path = "examples/common_shadow1_example.rs"
+
+[[example]]
+name = "common_shadow2_example"
+path = "examples/common_shadow2_example.rs"
+
+[[example]]
+name = "common_shadow3_example"
+path = "examples/common_shadow3_example.rs"
 
 [[example]]
 name = "structs1_example"
