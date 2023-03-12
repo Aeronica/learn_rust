@@ -6,3 +6,11 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+[[example]]
+name = "structs1_example"
+path = "examples/structs1_example.rs"
+
+[[example]]
+name = "structs2_example"
+path = "examples/structs2_example.rs"
