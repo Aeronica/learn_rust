@@ -9,36 +9,44 @@ edition = "2021"
 rand = "0.8.5"
 
 [[example]]
-name = "guessing_example"
-path = "examples/guessing_example.rs"
+name = "section_2_programming_a_guessing_game"
+path = "examples/section_2_programming_a_guessing_game.rs"
 
 [[example]]
-name = "common1_example"
-path = "examples/common1_example.rs"
+name = "section_3_1_0_variables_mutability"
+path = "examples/section_3_1_0_variables_mutability.rs"
 
 [[example]]
-name = "common2_example"
-path = "examples/common2_example.rs"
+name = "section_3_1_1_variables_mutability"
+path = "examples/section_3_1_1_variables_mutability.rs"
 
 [[example]]
-name = "common3_example"
-path = "examples/common3_example.rs"
+name = "section_3_1_2_variables_mutability_constants"
+path = "examples/section_3_1_2_variables_mutability_constants.rs"
 
 [[example]]
-name = "common4_example"
-path = "examples/common4_example.rs"
+name = "section_3_1_3_variables_mutability_constants"
+path = "examples/section_3_1_3_variables_mutability_constants.rs"
 
 [[example]]
-name = "common_shadow1_example"
-path = "examples/common_shadow1_example.rs"
+name = "section_3_1_4_variables_mutability_shadowing"
+path = "examples/section_3_1_4_variables_mutability_shadowing.rs"
 
 [[example]]
-name = "common_shadow2_example"
-path = "examples/common_shadow2_example.rs"
+name = "section_3_1_5_variables_mutability_shadowing"
+path = "examples/section_3_1_5_variables_mutability_shadowing.rs"
 
 [[example]]
-name = "common_shadow3_example"
-path = "examples/common_shadow3_example.rs"
+name = "section_3_1_6_variables_mutability_shadowing"
+path = "examples/section_3_1_6_variables_mutability_shadowing.rs"
+
+[[example]]
+name = "section_3_2_0_data_types"
+path = "examples/section_3_2_0_data_types.rs"
+
+[[example]]
+name = "section_3_2_1_data_types"
+path = "examples/section_3_2_1_data_types.rs"
 
 [[example]]
 name = "structs1_example"
